@@ -1,0 +1,13 @@
+body {
+    background-color: aquamarine;
+}
+
+main {
+    display: grid;
+    grid-template-columns: 200px 1fr 200px;
+}
+
+h1 {
+    text-align: center;
+    grid-column: 2/2;
+}

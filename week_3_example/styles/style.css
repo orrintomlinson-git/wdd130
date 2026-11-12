@@ -1,0 +1,12 @@
+img {
+    width: 220px;
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+article {
+    width: 500px;
+    text-align: right;
+    margin: 0 auto;
+}

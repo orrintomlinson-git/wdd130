@@ -1,0 +1,22 @@
+body {
+    background: pink;
+}
+
+main {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 20px;
+    grid-template-rows: 65px;
+}
+
+header, footer {
+    grid-column: 1/-1;
+    background-color: blueviolet;
+    height: 200px;
+}
+
+
+
+img {
+    width: 100%
+}
